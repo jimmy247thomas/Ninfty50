@@ -1,3 +1,4 @@
+source("dependencies.R")
 # ui.R
 ui <- dashboardPage(
   dashboardHeader(title = "Nifty 50 Stock Analysis"),
