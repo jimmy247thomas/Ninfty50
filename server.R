@@ -1,3 +1,4 @@
+source("dependencies.R")
 # server.R
 server <- function(input, output) {
 
